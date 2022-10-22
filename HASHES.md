@@ -12,3 +12,5 @@ Installer Hashes
 - MD2 - 4840000e087333d4773bc519130eaee5
 - ADLER32 - 0ff504a0
 - CRC32 - d40fa970
+--
+--
