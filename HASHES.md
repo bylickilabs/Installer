@@ -13,4 +13,3 @@ Installer Hashes
 - ADLER32 - 0ff504a0
 - CRC32 - d40fa970
 --
---
