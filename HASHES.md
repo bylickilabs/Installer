@@ -1,3 +1,5 @@
+Installer Hashes
+--
 - MD5 - 6b5854f4ab07dc1a82fed5e5c29912c2
 - MD4 - 0884b3b6a32d80365944a7e5b6481911
 - SHA1 - cd3f6976844898a2a83be26fac415ffb3f9764c7
