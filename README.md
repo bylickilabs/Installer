@@ -4,7 +4,7 @@
 --
 - Die einzelnen Tools müssen nach dem das setup ausgeführt wurde nicht seperat Installiert werden. 
 --
-- NEU
+- -NEU-
 Implementierte Funktionen!
+Hinzugekommen sind Seriennummern, die zum ausführen der setup.exe benötigt werden.
 --
-Hinzugekommen sind Seriennummern, die zum ausführen der setup.exe benötigt werden. 
