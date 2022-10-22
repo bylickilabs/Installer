@@ -6,5 +6,4 @@
 --
 - -NEU-
 Implementierte Funktionen:
---
-- Hinzugekommen sind Seriennummern, die zum ausführen der setup.exe benötigt werden. 
+Hinzugekommen sind Seriennummern, die zum ausführen der setup.exe benötigt werden. 
