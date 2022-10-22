@@ -1,0 +1,4 @@
+[autorun]
+icon=.autorun\autorun.ico
+open=.autorun\autorun.exe
+action=Launch Disc

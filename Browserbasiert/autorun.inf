@@ -1,0 +1,3 @@
+[autorun]
+icon=.autorun\autorun.ico
+shellexecute=.autorun\Hauptseite.html
